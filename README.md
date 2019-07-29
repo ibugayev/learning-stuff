@@ -1,2 +1,3 @@
 # learning-stuff
 The repository is needed just to learn WTF is GitHub.
+Oh, all this stuff is looking not the same way as we used to see it in TFS/DevOps...
